@@ -4,7 +4,7 @@ import Navigation from './routes/Navigation'
 function App() {
 
   //TODO: 4.lazyload
-  //HACK: You are the video 39 Nested lazy Routes
+  //HACK: You are the video 40 Implementar las rutas hijas
 
   return (
     <>
